@@ -1,0 +1,23 @@
+node_modules
+dist
+
+# IDEs and editors
+.idea
+.vscode
+
+# MACOS
+.DS_Store
+
+# WINDOWS
+Thumbs.db
+
+# LOGS
+logs
+*.log
+
+# TEMPLATES
+*.d.ts
+
+# TYPESCRIPT
+*.js
+*.js.map
